@@ -81,6 +81,7 @@ https://www.facebook.com/CentroEducativoTenochtitlanTlalpan/?ti=as
 https://www.facebook.com/CentroEducativoTenochtitlanTlalpan/?ti=as
 https://www.facebook.com/CentroEducativoTenochtitlanTlalpan/?ti=as
 
+Adicionalmente encontramo que aunque facebook cuenta con un buscador de escuelas no hemo podido abrirlo en varia computadora y navegadores.
 
 https://www.facebook.com/search/114897945188014/places-in/140234236045713/places/intersect/?__xts__[0]=11.%7B%22ref%22%3A%22seo_c%22%2C%22link_name%22%3A%22SM_topic%22%2C%22topic_id%22%3A140234236045713%2C%22event%22%3A%22view_profile%22%2C%22page_id%22%3A1729772187287800%2C%22user_id%22%3A100002134615614%7D
 
@@ -110,6 +111,10 @@ La mayoría viven en casas sobre terrenos de más de 300 metros cuadrados, con c
 Cuatro de cada cinco hogares de nivel Medio Alto tiene uno o dos coches.
 En este nivel se encuentran la mayoría de profesionistas o trabajadores independientes.
 
+Como ya mencionamos éstos padres tienen la necesidad de comunicación directa con la escuela de una forma eficaz sin que sea altamente invaiva a sus actividades cotidianas.
+
 Debido a que la red es una herramienta para mejorar los servicios de las instituciones educativas, el modelo de negocios contempla la monetización del producto a través de ellas.
+
+En primera estancia se les ofrece un espacio de visibilización especializado en ofertas educativas en la red y a partir de la integración de sus usuarios a la plataforma, y la apropiación que la comunidad haga de la red como herramienta de comunicación, se establezca como un servicio necesario que brinde la institución eduactiva. Adicional a ésto fomentar una cultura de evaluación constante pero objetiva de parte de los padres contruibuirá a mantener altos estandares de calidad educativa y a justificar la inversión que los padres hacen para la educación de sus hijos en esa escuela.
 
 
