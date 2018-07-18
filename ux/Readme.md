@@ -18,9 +18,9 @@ Tradicionalmente la comunicación entre escuelas y padres de familia se basaba e
 
 Con la salida al mercado de redes sociales como facebook, whatsapp, twitter, telegram etc y su gradual incorporación a nuestra vida cotidiana, algunas de éstas redes empezaron a utilizarse para comunicarse entre padres o entre padres y profesores.
 
-**3-"Involved"**
+**3-"View School"**
 
-Involved, nuestra Red Social es un espacio que piensa en madres y padres de familia que requieren un medio de comunicación directo con escuela, profesor(a) y padres cuyos hijos se encuentran en el mismo grupo.
+View School, nuestra Red Social es un espacio que piensa en madres y padres de familia que requieren un medio de comunicación directo con escuela, profesor(a) y padres cuyos hijos se encuentran en el mismo grupo.
 
 Como hablamos de familias trabajadoras en su mayoría, cuentan con poco tiempo para estar al tanto de las distintas actividades escolares de sus hijos.
 
