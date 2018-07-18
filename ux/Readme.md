@@ -40,24 +40,27 @@ Por lo que proponemos una red social que:
 
 -Siendo un espacio seguro quienes estén presentes en actividades pueden compartir información, fotografías y videos sin edición de las actividades y los padres que no estuvieron preentes acceder a ellos.
 
-**4- Datos a considerar**
+**4- Invetigación**
 
-Durante el levantamiento de nuestra primera muestra para la que utilizamos una [encuesta](https://www.survio.com/survey/d/N1O7B8O2S8I3E5G9G) encontramos que:
+El primer acercamiento a nuestros potenciales usuarios, fue a través del levantamiento de nuestra primera muestra para la que utilizamos una [encuesta](https://www.survio.com/survey/d/N1O7B8O2S8I3E5G9G). Obtuvimos 35 encuestas en las cuales encontramos que:
 
-- El 54% de los padres de familia señalan que la escuela donde estudian sus hijos no les solicita una evaluación de su calidad educativa y/o servicios.
+- El 57.1% de los padres de familia señalan que la escuela donde estudian sus hijos no les solicita una evaluación de su calidad educativa y/o servicios.
 
-- El 97% piensa que las evaluaciones de otros padres sobre el colegio en cuestión, pueden ser útiles para tomar decisiones con respecto a la educación de sus hijos.
+- El 97.1% piensa que las evaluaciones de otros padres sobre el colegio en cuestión, pueden ser útiles para tomar decisiones con respecto a la educación de sus hijos.
 
-- También encontramos que el 87.5% da una evaluación igual o mayor a 8 de 10 del colegio en el que sus hijos estudian, por lo que obervamos que los colegios no están capitalizando éstas opiniones positivas pues de inicio no las solicitan.
+- También encontramos que el 85.3% da una evaluación igual o mayor a 8 de 10 del colegio en el que sus hijos estudian, por lo que obervamos que los colegios no están capitalizando éstas opiniones positivas pues de inicio no las solicitan.
 
-Por otro lado el 75% de los padres y madres encuestados dicen que sí les gustaría una red social directa y/o oficial con escuela y padres, mientras el 12% señala que ya existe en forma de grupos de whatsapp y solo el 12% no deseean un red social. Al preguntar sobre las mejoras en comunicación entre escuelas y padres el mayor porcentaje de encuestados hablan de mejoras con implementación de grupos, redes sociales y/o optimización de ellas, mientra que solo 3 personas del total de encuestados dicen que la comunicación actual está bien.
+Por otro lado el 77.1% de los padres y madres encuestados dicen que sí les gustaría una red social directa y/o oficial con escuela y padres, mientras el 11.4% señala que ya existe en forma de grupos de whatsapp y solo el 11.4% no desean un red social. Al preguntar sobre las mejoras en comunicación entre escuelas y padres el mayor porcentaje de encuestados hablan de mejoras con implementación de grupos, redes sociales y/o optimización de ellas, mientra que solo 3 personas del total de encuestados dicen que la comunicación actual está bien.
 
 ### B) Benchmark
 
 Durante la búsqueda de redes sociales con una propuesta parecida a la nuestra encontramos diferentes tipos, los primeros se refieren a espacios educativos de amplio espectro, en ellos se promueve el aprendizaje digital y el debate sobre temas educativos. Éste tipo de redes se enfocan más a la Educación como tema principal y en ella pueden acceder tanto profesores como alumnos y padres de familia. Sin embargo ninguna tiene como propósito crear un vínculo y comunicación con padres cuyos hijos estudian en el mismo grado y grupo dentro de la misma institución educativa.
 
-https://www.thecapsuled.com/
-https://www.leoteca.es/
+1. https://www.thecapsuled.com/
+
+2. https://www.leoteca.es/
+
+3. https://www.cibercorresponsales.org/
 
 Tenemos también los grupos de escuelas privadas en Facebook, éstos grupos ofrecen un escaparate virtual a la escuelas para dar a conocer algunas de sus actividades y se puede dar una calificación a la escuela. Al ser páginas públicas, el material que se sube tiene que cumplir con ciertos criterios de seguridad, como no enfocar rostros de niños lo que hace difícil que los padres puedan utilizar esos materiales para su propia familia.
 
@@ -75,7 +78,11 @@ Las limitaciones que encontramos son que:
 
 - No es un espacio útil para mantenerse al tanto de las actividades de los hijos dentro del colegio.
 
-[CentroEducativoTenochtitlanTlalpan](https://www.facebook.com/CentroEducativoTenochtitlanTlalpan/?ti=as)
+1. [Centro Educativo Tenochtitlan Tlalpan](https://www.facebook.com/CentroEducativoTenochtitlanTlalpan/?ti=as)
+
+2. [Escuela Arnold Gesell](https://www.facebook.com/Escuela-Arnold-Gesell-111063439096466/)
+
+3. [Colegio Zentli](https://www.facebook.com/Colegio-Zentli-315024195204685/)
 
 
 Adicionalmente encontramos que aunque facebook cuenta con un [buscador de escuelas](https://www.facebook.com/search/114897945188014/places-in/140234236045713/places/intersect/?__xts__[0]=11.%7B%22ref%22%3A%22seo_c%22%2C%22link_name%22%3A%22SM_topic%22%2C%22topic_id%22%3A140234236045713%2C%22event%22%3A%22view_profile%22%2C%22page_id%22%3A1729772187287800%2C%22user_id%22%3A100002134615614%7D) no da resultados después de probar en distintos dispositivos y navegadores.
@@ -92,6 +99,8 @@ Por último encontramos grupos en Whatssapp en los que observamos:
 - Si hay un alto grado de participación se convierte en una plataforma problemática, que no cumple su objetivo de comunicación, pues hay que leer muchos mensajes para saber si hay algún pormenor que atender o algo importante que saber.
 
 - Puede ser problemático consolidar el vínculo de comunidad si el medio es altamente invasivo o difícil de utilizar. 
+
+https://docs.google.com/spreadsheets/d/1-FUtQmF0aZIrVPT4YhrZ6NiEGSnivnR6B4K1DKPfFYM/edit?usp=sharing
 
 ### C) Target, argumentación del proyecto (negocio y usuario)
 
