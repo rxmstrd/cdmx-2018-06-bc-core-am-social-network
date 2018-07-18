@@ -40,7 +40,7 @@ Por lo que proponemos una red social que:
 
 -Siendo un espacio seguro quienes estén presentes en actividades pueden compartir información, fotografías y videos sin edición de las actividades y los padres que no estuvieron preentes acceder a ellos.
 
-**4- Invetigación**
+**4- Investigación**
 
 El primer acercamiento a nuestros potenciales usuarios, fue a través del levantamiento de nuestra primera muestra para la que utilizamos una [encuesta](https://www.survio.com/survey/d/N1O7B8O2S8I3E5G9G). Obtuvimos 35 encuestas en las cuales encontramos que:
 
@@ -121,5 +121,8 @@ Como ya mencionamos éstos padres tienen la necesidad de comunicación directa c
 Debido a que la red es una herramienta para mejorar los servicios de las instituciones educativas, el modelo de negocios contempla la monetización del producto a través de ellas.
 
 En primera estancia se les ofrece un espacio de visibilización especializado en ofertas educativas en la red y a partir de la integración de sus usuarios a la plataforma, y la apropiación que la comunidad haga de la red como herramienta de comunicación, se establezca como un servicio necesario que brinde la institución eduactiva. Adicional a ésto fomentar una cultura de evaluación constante pero objetiva de parte de los padres contruibuirá a mantener altos estandares de calidad educativa y a justificar la inversión que los padres hacen para la educación de sus hijos en esa escuela.
+
+SKETCH
+
 
 
