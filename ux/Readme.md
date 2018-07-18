@@ -5,7 +5,7 @@ Uso de Redes Sociales y Comunicación entre guarderias, estancias y colegios pri
 **1-Introducción**
 
 En 2017 la Organización para la Cooperación y el Desarrollo Económicos, organización que busca promover políticas que mejoren el bienestar económico y social entre sus miembros, de la cuál México forma parte, publicó un estudio sobre los países con más horas de trabajo por persona ocupada. 
-
+![tabla 1](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/tabla1.jpg?raw=true)
 https://data.oecd.org/emp/hours-worked.htm
 
 En este estudio se señala que México es el país en el que las personas con un empleo formal trabajan más horas que el resto de los países miembros de la organización.
@@ -45,12 +45,16 @@ Por lo que proponemos una red social que:
 El primer acercamiento a nuestros potenciales usuarios, fue a través del levantamiento de nuestra primera muestra para la que utilizamos una [encuesta](https://www.survio.com/survey/d/N1O7B8O2S8I3E5G9G). Obtuvimos 35 encuestas en las cuales encontramos que:
 
 - El 57.1% de los padres de familia señalan que la escuela donde estudian sus hijos no les solicita una evaluación de su calidad educativa y/o servicios.
+![tabla 2](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/evaluacion1.jpg?raw=true)
 
 - El 97.1% piensa que las evaluaciones de otros padres sobre el colegio en cuestión, pueden ser útiles para tomar decisiones con respecto a la educación de sus hijos.
+![tabla 3](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/evaluacion2.jpg?raw=true)
 
 - También encontramos que el 85.3% da una evaluación igual o mayor a 8 de 10 del colegio en el que sus hijos estudian, por lo que obervamos que los colegios no están capitalizando éstas opiniones positivas pues de inicio no las solicitan.
+![tabla 4](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/evaluacion3.jpg?raw=true)
 
 Por otro lado el 77.1% de los padres y madres encuestados dicen que sí les gustaría una red social directa y/o oficial con escuela y padres, mientras el 11.4% señala que ya existe en forma de grupos de whatsapp y solo el 11.4% no desean un red social. Al preguntar sobre las mejoras en comunicación entre escuelas y padres el mayor porcentaje de encuestados hablan de mejoras con implementación de grupos, redes sociales y/o optimización de ellas, mientra que solo 3 personas del total de encuestados dicen que la comunicación actual está bien.
+![tabla 5](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/redsocial.jpg?raw=true)
 
 ### B) Benchmark
 
@@ -124,5 +128,9 @@ En primera estancia se les ofrece un espacio de visibilización especializado en
 
 SKETCH
 
+![sketch 1](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/sketch1.jpeg?raw=true)
+![sketch 2](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/sketch2.jpeg?raw=true)
+![sketch 3](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/sketch3.jpeg?raw=true)
+![sketch 4](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/sketch4.jpeg?raw=true)
 
 
