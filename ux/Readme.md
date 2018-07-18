@@ -134,3 +134,17 @@ SKETCH
 ![sketch 4](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/sketch4.jpeg?raw=true)
 
 
+PRIMER PROTOTIPO DE ALTA FIDELIDAD
+
+![alta 1](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/alta1.jpeg?raw=true)
+![alta 2](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/alta2.jpeg?raw=true)
+![alta 3](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/alta3.jpeg?raw=true)
+![alta 4](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/alta4.jpeg?raw=true)
+![alta 5](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/alta5.jpeg?raw=true)
+
+
+
+
+
+
+
