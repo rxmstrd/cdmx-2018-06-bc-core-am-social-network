@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Login Red Social</title>
+
+
+    <script src="https://www.gstatic.com/firebasejs/4.12.1/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyBONnPcYzSFo2OejnVb0-V9yuGW0shURWg",
+        authDomain: "redsocial-3d9dd.firebaseapp.com",
+        databaseURL: "https://redsocial-3d9dd.firebaseio.com",
+        projectId: "redsocial-3d9dd",
+        storageBucket: "redsocial-3d9dd.appspot.com",
+        messagingSenderId: "870956174943"
+      };
+      firebase.initializeApp(config);
+    </script>
+  </head>
+  <body>
+    <h4>Registro de usuarios</h4>
+    <input id="email" type="email"  placeholder="Ingresa Email" >
+    <input id="password" type="password"  placeholder="Ingresa Contraseña" >
+    <button onclick="registrar()">Enviar</button>
+
+    <h4>Ingreso de usuarios</h4>
+    <input id="email2" type="email"  placeholder="Ingresa Email" >
+    <input id="password2" type="password"  placeholder="Ingresa Contraseña" >
+    <button onclick="ingreso()">Acceder</button>
+
+    <div id="contenido">
+
+    </div>
+    <script src="js/index.js"></script>
+  </body>
+</html>
