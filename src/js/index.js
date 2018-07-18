@@ -30,7 +30,7 @@ function observador() {
     // User is signed in.
     var displayName = user.displayName;
     var email = user.email;
-    console.log(email);
+    console.log(user);
     var emailVerified = user.emailVerified;
     var photoURL = user.photoURL;
     var isAnonymous = user.isAnonymous;
@@ -45,9 +45,18 @@ function observador() {
 observador();
 
 function aparece(){
-
   var contenido = document.getElementById('contenido');
-  contenido.innerHTML = "Solo lo ve usuario activo";
+  contenido.innerHTML =  `
+  <p>Bienvenido</p>
+  <button onclick="cerrar()">Cerrar sesión</button>`;
+}
 
-
+function cerrar(){
+  firebase.auth().signOut()
+  .then(function(){
+  console.log("Saliendo ....");
+})
+  .catch(function(error){
+    console.log(error)
+  })
 }
