@@ -44,6 +44,7 @@ function observador() {
     // ...
   } else {
     console.log("no existe usuario activo");
+    contenido.innerHTML = ` `;
   }
 });
 }
@@ -54,8 +55,15 @@ function aparece(user){
   var contenido = document.getElementById('contenido');
   if(user.emailVerified){
     contenido.innerHTML =  `
-    <p>Bienvenido</p>
-    <button onclick="cerrar()">Cerrar sesión</button>`;
+    <div class="container mt-5">
+    <div class="alert alert-success" role="alert">
+      
+      <h4 class="alert-heading">Bienvenido! ${user.email}</h4>
+      <p>Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.</p>
+      <hr>
+      <p class="mb-0">Whenever you need to, be sure to use margin utilities to keep things nice and tidy.</p>
+    </div>
+    <button class= "btn btn-danger" onclick="cerrar()">Cerrar sesión</button></div>`;
   }
 
 }
