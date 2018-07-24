@@ -1,9 +1,12 @@
 window.social = {
 
-  registrar: () => {
+  registrar: (email,password) => {
+    console.log(email,password)
   firebase.auth().createUserWithEmailAndPassword(email, password)
-  .then(function () {
-    verificar()
+  .then(function() {
+
+  window.social.verificar()
+
   })
   .catch(function(error) {
     // Handle Errors here.
@@ -11,24 +14,28 @@ window.social = {
     var errorMessage = error.message;
     console.log(errorCode);
     console.log(errorMessage);
-  });;
+  });
 },// llave registrar
 
-ingreso: () => {
-  firebase.auth().signInWithEmailAndPassword(email2, password2).
-  catch(function(error) {
+ingreso: (email2,password2) => {
+  firebase.auth().signInWithEmailAndPassword(email2, password2)
+  .then(function() {
+  window.social.observador()
+  })
+  .catch(function(error) {
     // Handle Errors here.
     var errorCode = error.code;
     var errorMessage = error.message;
   });
-  observador();
+
 },// llave ingreso
 
 observador: () => {
+
   firebase.auth().onAuthStateChanged(function(user) {
   if (user) {
-      console.log("existe usuario activo")
-      aparece(user);
+      console.log(user)
+      window.social.aparece(user);
     // User is signed in.
     var displayName = user.displayName;
     var email = user.email;
@@ -43,11 +50,11 @@ observador: () => {
     console.log("no existe usuario activo");
     contenido.innerHTML = ` `;
   }
-});// llave observador
+});
+
+},// llave observador
 /* revisar donde mandar a llamar esta funcion observador(); */
 aparece: (user) => {
-  let user = user;
-  const contenido = document.getElementById('contenido');
   if(user.emailVerified){
   location.href ="views/muro.html";
   /*contenido.innerHTML =  `
@@ -57,7 +64,7 @@ aparece: (user) => {
       <p>Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.</p>
       <hr>
       <p class="mb-0">Whenever you need to, be sure to use margin utilities to keep things nice and tidy.</p>
-    </div>-->
+    </div>
     <button class= "btn btn-danger" onclick="cerrar()">Cerrar sesión</button></div>`;*/
   }
 },// llave aparece
@@ -73,6 +80,7 @@ cerrar: () => {
 }, // llave cerrar
 
 verificar: ()=> {
+  console.log("ingreso a verificar");
   var user = firebase.auth().currentUser;
   user.sendEmailVerification().then(function() {
   console.log("Enviando correo");

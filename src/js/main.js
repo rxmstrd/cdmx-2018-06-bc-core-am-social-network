@@ -1,17 +1,21 @@
-const email = document.getElementById('email').value;
-const password = document.getElementById('password').value;
-const btnRegistrar = document.getElementById('registrar').value;
-const email2 = document.getElementById('email2').value;
-const password2 = document.getElementById('password2').value;
-const btnIngreso = document.getElementById('ingreso').value;
-const contenido = document.getElementById('contenido').value;
+const email = document.getElementById('email');
+const password = document.getElementById('password');
+const btnRegistrar = document.getElementById('registrar');
+const email2 = document.getElementById('email2');
+const password2 = document.getElementById('password2');
+const btnIngreso = document.getElementById('ingreso');
+const contenido = document.getElementById('contenido');
 
 btnRegistrar.addEventListener("click", event =>{
 window.social.registrar(email.value,password.value);
+//window.social.observador();
+
 }
 );
 
 btnIngreso.addEventListener("click", event =>{
-window.social.registrar(email2.value,password2.value);
+window.social.ingreso(email2.value,password2.value);
+//window.social.observador();
+
 }
 );
