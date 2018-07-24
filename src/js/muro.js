@@ -4,7 +4,7 @@ firebase.initializeApp({
   projectId: "redsocial-3d9dd",
 });
 
-// Initialize Cloud Firestore through Firebase
+// Inicializa Cloud Firestore through Firebase
 const db = firebase.firestore();
 
 function publicar() {
