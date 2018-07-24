@@ -1,0 +1,157 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: white;
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+  color: black;
+  cursor: pointer;
+}
+button {
+  cursor: pointer;
+}
+
+
+/* HEADER */
+.header {
+  display: block;
+  background-color: #66cacf;
+  color: white;
+  padding: 14px;
+}
+.header-logo {
+  color: white;
+}
+.header-logo h1 {
+  font-size: 1rem;
+}
+.header-right {
+  float: right;
+}
+.header-search {
+  display: inline-block;
+  margin-right: 1rem;
+}
+.header-search label {
+  display: inline-block;
+}
+.header-search input {
+  background-color: white;
+  border: 2px solid #eee;
+  border-radius: 4px;
+}
+.header-search button {
+  display: inline-block;
+  background-color: #eee;
+  color: gray;
+}
+.header-user {
+  color: white;
+}
+
+
+/* SECCIONES */
+main {
+  display: block;
+}
+.posts {
+  width: 100%;
+  padding: .5rem;
+  font-size: 1.2rem;
+}
+.historias{ 
+  text-align: center;
+  font-size: 1.2rem;
+  width: 100%;
+  padding: 1rem;
+  background-color: #f4f4f4;
+}
+.comunidad {
+  display: none;
+  background-color: #f4f4f4;
+  border: 1px solid #eee;
+}
+
+@media screen and (min-width: 768px) {
+  main {
+    display: grid;
+    grid-template-columns: 58% 34%;
+    margin: 1rem 1rem 1rem 5rem;
+  }
+  .posts {
+    display: inline-block;
+  }
+  .comunidad {
+    display: inline-block;
+    text-align: right;
+    padding: .5rem;
+    margin-top: .5rem;
+    margin-left: 8rem;
+  }
+}
+
+
+/* PUBLICAR */
+.new {
+  width: 100%;
+  padding: 1rem;
+  background-color: #f4f4f4;
+  text-align: right;
+  margin-bottom: 1rem;
+}
+.new p {
+  margin-bottom: .5rem;
+  text-align: left;
+}
+.new textarea {
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 1rem;
+}
+.new button {
+  background-color: #66cacf;
+  color: white;
+  border-radius: 4px;
+  padding: .5rem;
+  font-size: 12px;
+}
+
+
+/* PUBLICACIONES */
+.historias {
+  width: 100%;
+}
+.post {
+  width: 100%;
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  text-align: right;
+}
+.post h4, .post p {
+  text-align: left;
+  font-size: .8rem;
+}
+.post p {
+  background-color: white;
+  border: 1px solid #eee;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+.post a {
+  background-color: #66cacf;
+  color: white;
+  padding: .5rem;
+  margin-left: .5rem;
+  font-size: 12px;
+  border-radius: 4px;
+}

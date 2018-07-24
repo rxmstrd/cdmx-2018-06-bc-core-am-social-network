@@ -30,6 +30,17 @@ ingreso: (email2,password2) => {
 
 },// llave ingreso
 
+googleSignIn: () => {
+  provider = new firebase.auth.GoogleAuthProvider()
+  firebase.auth().signInWithPopup(provider).then(function(result){
+   console.log(result)
+   console.log("success... Google Account Linked")
+        }).catch(function(err) {
+        console.log(err)
+        console.log("Failed to do")
+      })
+}, //llave ingresoGoogle
+
 observador: () => {
 
   firebase.auth().onAuthStateChanged(function(user) {
