@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -141,3 +142,67 @@
         });
         </script>
 </body></html>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>View School - Muro</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+  <link rel="stylesheet" href="../css/muro.css">
+</head>
+<body>
+
+  <header class="header">
+    <a href="#" class="header-logo">
+      <h1>View School</h1>
+    </a>
+    <div class="header-right">
+      <form class="header-search">
+        <label>
+          <input type="text" placeholder="Buscar" />
+        </label>
+        <button>
+          <i class="fas fa-search"></i>
+        </button>
+      </form>
+      <a class="header-user">
+        <i class="far fa-user"></i>
+      </a>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="posts">
+
+      <div class="new">
+        <p>Agrega tu Mensaje</p>
+        <textarea id="mensaje" placeholder="¿Qué quieres compartir?"></textarea>
+        <button id="boton" onclick="publicar()">Publicar</button>
+      </div>
+      <section id="historias" class="historias"><p>Historias</p></section>
+      
+      <section id="publicacion" class="historias"></section>
+
+    </section>
+
+    <aside class="comunidad">comunidad</aside>
+
+  </main>
+
+
+  
+
+  <!-- Scripts -->
+  <script src="https://www.gstatic.com/firebasejs/5.2.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/5.2.0/firebase-firestore.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="../js/muro.js"></script>
+</body>
+</html>
+>>>>>>> 21838a01e235a9c224507ab12d056932ab80fd30
