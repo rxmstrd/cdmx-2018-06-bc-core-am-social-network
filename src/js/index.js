@@ -33,8 +33,7 @@ ingreso: (email2,password2) => {
 googleSignIn: () => {
   provider = new firebase.auth.GoogleAuthProvider()
   firebase.auth().signInWithPopup(provider).then(function(result){
-   console.log(result)
-   console.log("success... Google Account Linked")
+     location.href ="views/muro.html";
         }).catch(function(err) {
         console.log(err)
         console.log("Failed to do")
