@@ -32,6 +32,7 @@ db.collection("users").onSnapshot((querySnapshot) => {
   querySnapshot.forEach((doc) => {
       console.log(`${doc.id} => ${doc.data().mensaje}`);
       //para usuario va <th scope="row">${doc.id}</th>
+      //probar iinsertAdjacentHTML(beforebegin, texto) para que ordene pùblicaciones
       publicacion.innerHTML += `
       <article class="post">
           <h4>${doc.id}</h4>
