@@ -56,6 +56,7 @@ El primer acercamiento a nuestros potenciales usuarios, fue a través del levant
 Por otro lado el 77.1% de los padres y madres encuestados dicen que sí les gustaría una red social directa y/o oficial con escuela y padres, mientras el 11.4% señala que ya existe en forma de grupos de whatsapp y solo el 11.4% no desean un red social. Al preguntar sobre las mejoras en comunicación entre escuelas y padres el mayor porcentaje de encuestados hablan de mejoras con implementación de grupos, redes sociales y/o optimización de ellas, mientra que solo 3 personas del total de encuestados dicen que la comunicación actual está bien.
 ![tabla 5](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/redsocial.jpg?raw=true)
 
+
 ### B) Benchmark
 
 Durante la búsqueda de redes sociales con una propuesta parecida a la nuestra encontramos diferentes tipos, los primeros se refieren a espacios educativos de amplio espectro, en ellos se promueve el aprendizaje digital y el debate sobre temas educativos. Éste tipo de redes se enfocan más a la Educación como tema principal y en ella pueden acceder tanto profesores como alumnos y padres de familia. Sin embargo ninguna tiene como propósito crear un vínculo y comunicación con padres cuyos hijos estudian en el mismo grado y grupo dentro de la misma institución educativa.
@@ -106,6 +107,10 @@ Por último encontramos grupos en Whatssapp en los que observamos:
 
 https://docs.google.com/spreadsheets/d/1-FUtQmF0aZIrVPT4YhrZ6NiEGSnivnR6B4K1DKPfFYM/edit?usp=sharing
 
+### Emociones
+
+Recopilando la información anterior encontramos que al no ser un canal oficial de comunicación el uso de redes sociales para establecer contacto directo con padres de familia genera, tedio al contar con mucha información, irritación al recibir constantes notificaciones poco útiles, enojo de los llamados constantes, ansiedad al tener que navegar en mucha información para saber si hay alguna información importante con repecto a sus hijos, inseguridad pues las redes siguen siendo un espacio informal de comunicación.
+
 ### C) Target, argumentación del proyecto (negocio y usuario)
 
 Nuestra red social esta dirigida a hombres y mujeres, padres de familia que cuentan con un empleo fijo y con un nivel Socieconómico C+
@@ -126,7 +131,15 @@ Debido a que la red es una herramienta para mejorar los servicios de las institu
 
 En primera estancia se les ofrece un espacio de visibilización especializado en ofertas educativas en la red y a partir de la integración de sus usuarios a la plataforma, y la apropiación que la comunidad haga de la red como herramienta de comunicación, se establezca como un servicio necesario que brinde la institución eduactiva. Adicional a ésto fomentar una cultura de evaluación constante pero objetiva de parte de los padres contruibuirá a mantener altos estandares de calidad educativa y a justificar la inversión que los padres hacen para la educación de sus hijos en esa escuela.
 
-SKETCH
+### Historias de Usuario:
+
+1.- Yo como madre trabajadora y usuaria de la red, requiero encontrar con facilidad información sobre el día a día de mi hijo, para poder cumplir con las actividades o cosas que se necesiten en la escuela.
+
+2.- Yo como padre que trabaja en otro Estado, quiero poder saber sobre la vida escolar de mi hijo, para poder acercarme más a él a pesar de la distancia.
+
+3.- Yo como profesora y usuaria quiero tener un canal de comunicación directo con los padres, que sirva tanto para dar avisos generales, como para compartir material del trabajo que realizo con mi grupo, sin tener que replicar constantemente la información o buscar medio distintos para hacerla llegar a los padre de familia.
+
+### SKETCH
 
 ![sketch 1](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/sketch1.jpeg?raw=true)
 ![sketch 2](https://github.com/Rosszhena/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/imgux/sketch2.jpeg?raw=true)
