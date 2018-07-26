@@ -9,7 +9,7 @@ const db = firebase.firestore();
 
 function publicar() {
   let mensaje = document.getElementById("mensaje").value;
-  
+
   if ( mensaje !== "" ) {
     db.collection("users").add({
       mensaje: mensaje,
@@ -38,7 +38,7 @@ db.collection("users").onSnapshot((querySnapshot) => {
           <p>${doc.data().mensaje}</p>
           <a class="post-eliminar" onclick="eliminar('${doc.id}')">Eliminar</a>
           <a class="post-editar" onclick="editar('${doc.id}','${doc.data().mensaje}')">Editar</a>
-      </article>    
+      </article>
       `
   });
 });
@@ -50,7 +50,7 @@ function eliminar(id) {
   }).catch(function(error) {
     console.error("Error removing document: ", error);
   });
-  
+
 }
 
 //Editar documentos
@@ -73,13 +73,7 @@ function editar(id,mensaje) {
     .catch(function(error) {
         console.error("Error updating document: ", error);
     });
-  
-  }
 
   }
 
-
-
-
-
-
+  }
