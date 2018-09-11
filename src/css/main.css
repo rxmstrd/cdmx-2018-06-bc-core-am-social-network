@@ -1,0 +1,210 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: white;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    background-image: url('../images/portada-movil.jpg');
+    background-size: cover;
+    text-align: center;
+    background-position-y: -52%;
+    background-repeat: no-repeat;
+  }
+  @media screen and (min-width: 640px) {
+    body {
+      background-image: url('../images/portada-tablet.jpg');
+      background-position-y: 0%;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    body {
+      background-image: url('../images/portada-desktop2.jpg');
+      background-position-y: 13%;
+    }
+  }
+  a {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    cursor: pointer;
+  }
+  button {
+    cursor: pointer;
+  }
+
+  img {
+    display: none;
+
+  }
+/* Cajon para logearse */
+  .loginGeneral{
+    text-align: center;
+    background-color: white;
+    border: 1px solid black;
+    display: inline-block;
+    width: 80%;
+    padding: 1.5rem;
+    border-radius: 20px;
+    margin-top: 3rem;
+  }
+  @media screen and (min-width: 640px) {
+    .loginGeneral {
+      width: 50%;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    .loginGeneral {
+      width: 25%;
+    }
+  }
+
+  .loginGeneral input{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: .5rem;
+    text-align: center;
+    border-radius: 15px;
+    padding: .5rem;
+    background-color: #eee;
+
+  }
+
+  .btnIngreso{
+    display: inline-block;
+    background-color:#5DBCD2;
+    margin: .6rem;
+    border-radius: 15px;
+    padding: .5rem;
+    color: white;
+
+  }
+  
+  .btnRegistro{
+    display: inline-block;
+    background-color:#5DBCD2;
+    margin: .6rem;
+    border-radius: 15px;
+    padding: .5rem;
+    color: white;
+
+  }
+  .btn-google{
+    display: inline-block;
+    background-color:#EC0B04;
+    margin: 1rem;
+    border-radius: 15px;
+    padding: .5rem;
+    color: white;
+
+  }
+
+  .btn-facebook{
+    display: inline-block;
+    background-color:#030A95;
+    margin: 1rem;
+    border-radius: 15px;
+    padding: .5rem;
+    color: white;
+
+  }
+  /* #btn-google{
+    display: block;
+    margin: 1.5rem;
+    border-radius: 15px;
+    padding: .3rem;
+  } */
+
+
+
+.modal-registro{
+  display:none;
+  
+}
+
+.modal-registro.active {
+  text-align: center;
+  background-color: white;
+  border: 1px solid black;
+  display: inline-block;
+  width: 25%;
+  padding: 1.5rem;
+  border-radius: 20px;
+  margin-top: 3rem;
+} 
+.modal-body input{
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 1rem;
+  text-align: center;
+  border-radius: 15px;
+  padding: .5rem;
+  background-color: #eee;
+
+}
+.modal-footer button{
+  display: inline-block;
+  background-color:#5DBCD2;
+  margin: 1rem;
+  border-radius: 15px;
+  padding: .5rem;
+  color: white;
+
+}
+
+
+
+  /* .btn-btn-google {
+    display: inline-block;
+  } */
+  /* @media screen and (min-width: 1200px){
+  
+  .loginGeneral{
+    text-align: center;
+    margin-top: 5rem;
+   
+  }
+
+  .loginGeneral input{
+    
+    border-radius: 15px;
+    padding: .2rem;
+    text-align: center;
+
+  }
+  .btnIngreso{
+    display: inline-block;
+    padding: .3rem;
+    text-align: center;
+    border-radius: 15px;
+    background-color: lavender;
+    color: white;
+
+  }
+
+  .btnRegistro{
+
+    padding: .3rem;
+    text-align: center;
+    border-radius: 15px;
+
+  }
+
+  .btn-google {
+    display: block;
+    padding: .2rem;
+    text-align: center;
+    border-radius: 15px;
+  }
+}
+
+/* MODAL */
+
+/* .modal-registro {
+  display: none;
+}
+.modal-registro.active {
+  display: inline-block;
+} */ 

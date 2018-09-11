@@ -12,34 +12,27 @@ body {
 a {
   text-decoration: none;
   display: inline-block;
-  color: black;
+  color: white;
   cursor: pointer;
 }
 button {
   cursor: pointer;
 }
-
-
 /* HEADER */
 .header {
   display: block;
   background-color: #66cacf;
   color: white;
-  padding: 14px;
+  padding: 16px;
 }
+
 .header-logo {
   color: white;
 }
 .header-logo h1 {
   font-size: 1rem;
 }
-.header-right {
-  float: right;
-}
-.header-search {
-  display: inline-block;
-  margin-right: 1rem;
-}
+
 .header-search label {
   display: inline-block;
 }
@@ -67,7 +60,7 @@ main {
   padding: .5rem;
   font-size: 1.2rem;
 }
-.historias{ 
+.historias{
   text-align: center;
   font-size: 1.2rem;
   width: 100%;
